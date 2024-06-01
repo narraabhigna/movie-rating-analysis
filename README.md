@@ -9,7 +9,7 @@ Welcome to the Movie Rating Analysis project! This project aims to analyze movie
 - Exploratory Data Analysis (EDA): Perform in-depth analysis to identify patterns and trends.
 - Visualization: Visualize the data using charts and graphs for better understanding.
 - Statistical Analysis: Apply statistical techniques to derive meaningful conclusions.
-- Machine Learning: Build predictive models to forecast movie ratings or user preferences.
+
  you can download the required datasets from https://www.kaggle.com/tunguz/movietweetings/download
 
 ## Languages and Tools Used
